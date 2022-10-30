@@ -1,5 +1,7 @@
 # Poster_Presentations
 
+2022
+
 IDWeek: COVID-19 and Antibiotic Prescriptions in the United States: A County-level Analysis
 1. Hamilton A, Poleon S, Cherian J, Cosgrove S, Laxminarayan R, Klein E. COVID-19 and antibiotic prescriptions in
 the United States: a county-level analysis. In: IDWeek: Annual Meeting. Washington, DC. 2022 Oct.
